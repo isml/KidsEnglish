@@ -1,5 +1,6 @@
 # kidsenglish
-
+![test](https://github.com/isml/KidsEnglish/blob/master/img/1.jpg =24x48)
+![test](https://github.com/isml/KidsEnglish/blob/master/img/2.jpg =24x48)
 ![](https://github.com/isml/KidsEnglish/blob/master/img/1.jpg width=48)
 ![](https://github.com/isml/KidsEnglish/blob/master/img/2.jpg width=48)
 ![alt text](https://github.com/isml/KidsEnglish/blob/master/img/3.jpg?raw=true)
