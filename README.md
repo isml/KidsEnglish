@@ -1,9 +1,14 @@
 # kidsenglish
 <img src="https://github.com/isml/KidsEnglish/blob/master/img/1.jpg" height="500" width="250">
 <img src="https://github.com/isml/KidsEnglish/blob/master/img/2.jpg" height="500" width="250">
+<img src="https://github.com/isml/KidsEnglish/blob/master/img/3.jpg" height="500" width="250">
 <img src="https://github.com/isml/KidsEnglish/blob/master/img/4.jpg" height="500" width="250">
+<p float="left">
+<img src="https://github.com/isml/KidsEnglish/blob/master/img/1.jpg" height="500" width="250">
+<img src="https://github.com/isml/KidsEnglish/blob/master/img/2.jpg" height="500" width="250">
+<img src="https://github.com/isml/KidsEnglish/blob/master/img/3.jpg" height="500" width="250">
 <img src="https://github.com/isml/KidsEnglish/blob/master/img/4.jpg" height="500" width="250">
-
+</p>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
