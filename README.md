@@ -1,4 +1,4 @@
-# kidsenglish
+# Kids English
 
 <p float="left">
 <img src="https://github.com/isml/KidsEnglish/blob/master/img/1.jpg" height="400" width="200">
@@ -6,8 +6,11 @@
 <img src="https://github.com/isml/KidsEnglish/blob/master/img/3.jpg" height="400" width="200">
 <img src="https://github.com/isml/KidsEnglish/blob/master/img/4.jpg" height="400" width="200">
 </p>
+<b></b>
+Çocuklar için resim ve okunuşları ile ingilizce kelimeler bu uygulamada mevcuttur.
+<h2>Uygulamanın Google Play Store Linki :</h2> <a href="https://play.google.com/store/apps/details?id=com.ismail.kidsenglish&hl=tr">Google Play Store Link</a>
 ## Getting Started
-
+Projeyi indirdikten sonra ortamınızda(Visual Studio Code veya Android Studio) açarak gerekli paket yüklemelerini yaparak çalıştırabilirsiniz.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
