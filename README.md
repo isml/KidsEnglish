@@ -1,9 +1,8 @@
 # kidsenglish
-<img src="https://github.com/isml/KidsEnglish/blob/master/img/1.jpg" height="24" width="48">
-![](https://github.com/isml/KidsEnglish/blob/master/img/1.jpg width=48)
-![](https://github.com/isml/KidsEnglish/blob/master/img/2.jpg width=48)
-![alt text](https://github.com/isml/KidsEnglish/blob/master/img/3.jpg?raw=true)
-![alt text](https://github.com/isml/KidsEnglish/blob/master/img/4.jpg?raw=true)
+<img src="https://github.com/isml/KidsEnglish/blob/master/img/1.jpg" height="300" width="150">
+<img src="https://github.com/isml/KidsEnglish/blob/master/img/1.jpg" height="300" width="150">
+<img src="https://github.com/isml/KidsEnglish/blob/master/img/1.jpg" height="300" width="150">
+<img src="https://github.com/isml/KidsEnglish/blob/master/img/1.jpg" height="300" width="150">
 
 ## Getting Started
 
